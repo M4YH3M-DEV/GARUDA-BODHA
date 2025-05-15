@@ -2,7 +2,7 @@
 
 **The Next-Gen Developer Community & Learning Platform**
 
-![Garuda-Bodha Banner](assets/garuda-bodha-banner.png)
+![Garuda-Bodha Banner](garuda-bodha-banner.png)
 
 ---
 
