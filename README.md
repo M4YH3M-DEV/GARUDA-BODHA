@@ -75,7 +75,7 @@ This repository is licensed under the
 - You may view, discuss, and suggest improvements.
 - You may **not** copy, modify, redistribute, or use the code for commercial purposes.
 
-For details, see [LICENSE](LICENSE).
+For details, see [LICENSE](LICENSE.md).
 
 ---
 
